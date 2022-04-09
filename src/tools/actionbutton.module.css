@@ -1,0 +1,30 @@
+.action{
+    width:50%;
+    border: 1px solid gray;
+    background-color: white;
+    color:black;
+    padding: 1px;
+    margin:auto;
+    margin-top: 30px;
+    text-align:center;
+    cursor:pointer;
+    border-radius: 30px;
+    font-size: 1.2rem;
+}
+.action.red{
+    background-color:indianred;
+    color:white;
+    text-decoration: bold;
+}
+
+.action.blue{
+    background-color:royalblue;
+    color:white;
+    text-decoration: bold;
+}
+
+.action.green{
+    background-color:lawngreen;
+    color:black;
+    text-decoration: bold;
+}

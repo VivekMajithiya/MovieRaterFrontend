@@ -1,0 +1,37 @@
+.ListHead{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.MovieList{
+    display:grid;
+    grid-template-columns: 2fr 2fr;
+    font-size: 2rem;
+}
+
+.List:hover{
+    color:peru;
+    cursor: pointer;
+}
+
+.Icons{
+    margin:auto;
+    text-align:left;
+}
+
+.Icon{
+    padding: left 10px;
+    padding-right: 10px;
+    font-size:2rem;
+}
+
+.Icon:hover{
+    color:royalblue;
+    cursor: pointer;
+}
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+  }

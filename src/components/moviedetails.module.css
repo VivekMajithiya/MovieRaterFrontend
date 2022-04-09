@@ -1,0 +1,21 @@
+.Content{
+    color:peru;
+}
+
+.Orange{
+    color:orange;
+}
+
+.action{
+    width:50%;
+    border: 1px solid gray;
+    background-color: white;
+    color:black;
+    padding: 1px;
+    margin:auto;
+    margin-top: 20px;
+    text-align:center;
+    cursor:pointer;
+    border-radius: 10px;
+    font-size: 1.2rem;
+}

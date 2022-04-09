@@ -1,0 +1,11 @@
+.Rateme{
+    margin-top: 30px;
+    border-top: 2px purple solid;
+}
+
+.stars{
+    font-size: 3rem;
+}
+.purple{
+    color: purple;
+}
